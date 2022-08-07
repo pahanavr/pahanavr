@@ -24,12 +24,12 @@
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169149294-8549f32b-a450-4e88-be01-8d13b78f3532.png" alt="git">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack">
-  
-  
 </ul>
 
-<h2>🎞Проекты</h2>
+<h2>📏Статистика</h2>
 
+<h2>🎞Проекты</h2>
+https://github-readme-streak-stats.herokuapp.com/?user=pahanavr
 <ul>
   <li>Mesto Project</li>
   <ul>
