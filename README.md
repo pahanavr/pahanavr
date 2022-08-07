@@ -32,15 +32,19 @@
     <li><a href="https://github.com/pahanavr/mesto">Репозиторий</a></li>
     <li><a href="https://pahanavr.github.io/mesto/">GitHub Pages</a></li>
   </ul>
+  
   Функционал: Добавление/удаление карточек, редактирование профиля, редактирование аватара, всплывающие окна (попапы), валидация форм.
 Стек: HTML, CSS, BEM, JavaScript, OOP, Webpack.
+  
   <li>Russian travel Project</li>
   <ul>
     <li><a href="https://github.com/pahanavr/russian-travel">Репозиторий</a></li>
     <li><a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a></li>
   </ul>
+  
   Функционал: Одностраничный лендинг с адаптивным дизайном про путешествия по России.
 Стек: HTML, CSS, BEM, Adaptive design.
+  
 </ul>
 
 <!---
