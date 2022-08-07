@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Pavel</h1>
+<h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, меня зовут Павел</h1>
 
 <div align="center">
 <a href="mailto:kiselev.pavel.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
@@ -8,11 +8,14 @@
 </div>
 
 
-<h2 fonts-size="24px">👀 About me</h2>
-I'm a Web Developer from St. Petersburg, Russia and I am learning web development. Now I already know HTML and CSS tools, Git and now I'm learning the JavaScript programming language. During the training I plan to study: React, NodeJs, MongoDB, Nginx, PM2. At the moment I have the skills of an HTML and CSS developer, with basic knowledge of JavaScript. 
+<h2 fonts-size="24px">👀 Обо мне</h2>
+<ul>
+  <li>Начинающий веб-разработчик с города Санкт-Петербург</li>
+  <li>Готов всегда изучать что-то новое</li>
+  <li></li>
+</ul>
 
-
-<h2>🛠Technical Stack</h2>
+<h2>🛠Стек</h2>
 <ul>
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169148276-b5a41534-e46f-4c39-b69b-3612f4fb2d1c.png" alt="html">
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169148480-356eb612-8826-43f0-b66a-b2b9660e0221.png" alt="css">
@@ -21,19 +24,23 @@ I'm a Web Developer from St. Petersburg, Russia and I am learning web developmen
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169149294-8549f32b-a450-4e88-be01-8d13b78f3532.png" alt="git">
 </ul>
 
-<h2>🎞My main projects</h2>
+<h2>🎞Проекты</h2>
 
 <ul>
   <li>Mesto Project</li>
   <ul>
-    <li><a href="https://github.com/pahanavr/mesto">Repositorie</a></li>
+    <li><a href="https://github.com/pahanavr/mesto">Репозиторий</a></li>
     <li><a href="https://pahanavr.github.io/mesto/">GitHub Pages</a></li>
   </ul>
+  Функционал: Добавление/удаление карточек, редактирование профиля, редактирование аватара, всплывающие окна (попапы), валидация форм.
+Стек: HTML, CSS, BEM, JavaScript, OOP, Webpack.
   <li>Russian travel Project</li>
   <ul>
-    <li><a href="https://github.com/pahanavr/russian-travel">Repositorie</a></li>
+    <li><a href="https://github.com/pahanavr/russian-travel">Репозиторий</a></li>
     <li><a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a></li>
   </ul>
+  Функционал: Одностраничный лендинг с адаптивным дизайном про путешествия по России.
+Стек: HTML, CSS, BEM, Adaptive design.
 </ul>
 
 <!---
