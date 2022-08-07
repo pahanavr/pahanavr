@@ -23,6 +23,8 @@
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169148923-bca5e7fc-dbfa-43b9-9bb0-d57d3be820f7.png" alt="figma">
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169149294-8549f32b-a450-4e88-be01-8d13b78f3532.png" alt="git">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react">
+  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack">
+  
   
 </ul>
 
