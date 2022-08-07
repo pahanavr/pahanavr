@@ -11,8 +11,8 @@
 <h2 fonts-size="24px">👀 Обо мне</h2>
 <ul>
   <li>Начинающий веб-разработчик с города Санкт-Петербург</li>
-  <li>Готов всегда изучать что-то новое</li>
-  <li></li>
+  <li>Готов всегда изучать что-то новое для расширения своего арсенала навыков</li>
+  <li>Хочу писать понятный и чистый код</li>
 </ul>
 
 <h2>🛠Стек</h2>
@@ -22,6 +22,8 @@
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169148699-58058550-257c-4281-a165-831650359d0a.png" alt="js">
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169148923-bca5e7fc-dbfa-43b9-9bb0-d57d3be820f7.png" alt="figma">
   <img width="50" src="https://user-images.githubusercontent.com/98909560/169149294-8549f32b-a450-4e88-be01-8d13b78f3532.png" alt="git">
+  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react">
+  
 </ul>
 
 <h2>🎞Проекты</h2>
