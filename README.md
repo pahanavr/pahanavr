@@ -27,9 +27,8 @@
 </ul>
 
 <h2>📏Статистика</h2>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pahanavr&theme=dark&background=000000)](https://git.io/streak-stats)
 <h2>🎞Проекты</h2>
-https://github-readme-streak-stats.herokuapp.com/?user=pahanavr
 <ul>
   <li>Mesto Project</li>
   <ul>
