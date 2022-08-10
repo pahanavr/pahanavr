@@ -32,7 +32,7 @@
 
 <h2>🎞Проекты</h2>
 <ul>
-  <li>Mesto Project</li>
+  <li>Проект Место</li>
   <ul>
     <li><a href="https://github.com/pahanavr/mesto">Репозиторий</a></li>
     <li><a href="https://pahanavr.github.io/mesto/">GitHub Pages</a></li>
@@ -41,7 +41,7 @@
   Функционал: Добавление/удаление карточек, редактирование профиля, редактирование аватара, всплывающие окна (попапы), валидация форм.
 Стек: HTML, CSS, BEM, JavaScript, OOP, Webpack.
   
-  <li>Russian travel Project</li>
+  <li>Проект Путешествия по России</li>
   <ul>
     <li><a href="https://github.com/pahanavr/russian-travel">Репозиторий</a></li>
     <li><a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a></li>
