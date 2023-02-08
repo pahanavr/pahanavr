@@ -42,6 +42,7 @@
     <p></p>
   Functional: registration, authorization, add/delete favourite movies, edit profile information, search movies by name <br> or search movies by length. <br>
   Frontend: TypeScript, React, CSS Modules, BEM;
+  <br>
   Backend: NodeJS, Express.js, MongoDB;
   
   <p></p>
@@ -50,6 +51,7 @@
   <p></p>
   Functional: registration, authorization, add/delete cards, edit profile, edit avatar, popups. <br>
   Frontend: JavaScript, React, CSS, BEM;
+  <br>
   Backend: NodeJS, Express.js, MongoDB;
   <p></p>
   <li><b>Project "Russian travel"</b> (<a href="https://github.com/pahanavr/russian-travel">Repositorie</a> / <a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a>)</li>
