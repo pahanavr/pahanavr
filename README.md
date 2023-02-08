@@ -1,5 +1,5 @@
 
-<h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, меня зовут Павел</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, my name is Pavel</h1>
 
 <div align="center">
 <a href="mailto:kiselev.pavel.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
@@ -7,48 +7,54 @@
 <a href="https://www.linkedin.com/in/pavel-kiselev-201745233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
 
-
-<h2 fonts-size="24px">👀 Обо мне</h2>
+<h2 fonts-size="24px">👀  About me</h2>
 <ul>
-  <li>Начинающий веб-разработчик с города Санкт-Петербург</li>
-  <li>Готов всегда изучать что-то новое для расширения своего арсенала навыков</li>
-  <li>Хочу писать понятный и чистый код</li>
+  <li>👨‍💻 Frontend developer.</li>
+  <li>🇲🇪 Now I live in Montenegro.</li>
+  <li>⚙️ 6 year background as shipbuilding engineer.</li>
+  <li>🧑‍🎓 Graduate of Yandex.Practicum. Profession "Web Developer" 1 year course.</li>
+  <li>🔭 I'm currently working in small startup where develop SaaS system for 6 months.<br> Stack: TypeScript, React, Redux Toolkit, CSS modules, SCSS.</li>
+  <li>✏️ I want to learn new technologies and write excellent code.</li>
 </ul>
 
-<h2>🛠Стек</h2>
+<h2>🛠  Tools</h2>
 <ul>
-  <img width="50" src="https://user-images.githubusercontent.com/98909560/169148276-b5a41534-e46f-4c39-b69b-3612f4fb2d1c.png" alt="html">
-  <img width="50" src="https://user-images.githubusercontent.com/98909560/169148480-356eb612-8826-43f0-b66a-b2b9660e0221.png" alt="css">
-  <img width="50" src="https://user-images.githubusercontent.com/98909560/169148699-58058550-257c-4281-a165-831650359d0a.png" alt="js">
-  <img width="50" src="https://user-images.githubusercontent.com/98909560/169148923-bca5e7fc-dbfa-43b9-9bb0-d57d3be820f7.png" alt="figma">
-  <img width="50" src="https://user-images.githubusercontent.com/98909560/169149294-8549f32b-a450-4e88-be01-8d13b78f3532.png" alt="git">
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react">
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt ="nodejs">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git">
+  <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab">
+<!--   <img width="75" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack"> -->
 </ul>
 
-<h2>📏Статистика</h2>
+<!-- <h2>📏Statistics</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pahanavr&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<h2>🎞Проекты</h2>
+ -->
+<h2>🎞  Projects</h2>
 <ul>
-  <li>Проект Место</li>
-  <ul>
-    <li><a href="https://github.com/pahanavr/mesto">Репозиторий</a></li>
-    <li><a href="https://pahanavr.github.io/mesto/">GitHub Pages</a></li>
-  </ul>
+  <li><b>Project "Movies-Explorer"</b> (<a href="https://github.com/pahanavr/movies-explorer-frontend">Frontend Repositorie</a> / <a href="https://github.com/pahanavr/movies-explorer-api">Backend Repositorie</a>)</li>
+    <p></p>
+  Functional: registration, authorization, add/delete favourite movies, edit profile information, search movies by name <br> or search movies by length. <br>
+  Frontend: TypeScript, React, CSS Modules, BEM;
+  Backend: NodeJS, Express.js, MongoDB;
+  <p></p>
+  <li><b>Project "Mesto"</b> (<a href="https://github.com/pahanavr/react-mesto-api-full">Repositorie</a>)</li>
+  <p></p>
+  Functional: registration, authorization, add/delete cards, edit profile, edit avatar, popups. <br>
+  Frontend: JavaScript, React, CSS, BEM;
+  Backend: NodeJS, Express.js, MongoDB;
+  <p></p>
+  <li><b>Project "Russian travel"</b> (<a href="https://github.com/pahanavr/russian-travel">Repositorie</a> / <a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a>)</li>
+  <p></p>
+  Functional: Landing page with adaptive design about Russian travel.<br>
   
-  Функционал: Добавление/удаление карточек, редактирование профиля, редактирование аватара, всплывающие окна (попапы), валидация форм.
-Стек: HTML, CSS, BEM, JavaScript, OOP, Webpack.
-  
-  <li>Проект Путешествия по России</li>
-  <ul>
-    <li><a href="https://github.com/pahanavr/russian-travel">Репозиторий</a></li>
-    <li><a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a></li>
-  </ul>
-  
-  Функционал: Одностраничный лендинг с адаптивным дизайном про путешествия по России.
-Стек: HTML, CSS, BEM, Adaptive design.
+  Tools: HTML, CSS, BEM, Adaptive design.
   
 </ul>
 
