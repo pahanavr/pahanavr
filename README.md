@@ -40,25 +40,27 @@
 <ul>
   <li><b>Project "Movies-Explorer"</b> (<a href="https://github.com/pahanavr/movies-explorer-frontend">Frontend Repositorie</a> / <a href="https://github.com/pahanavr/movies-explorer-api">Backend Repositorie</a>)</li>
     <p></p>
-  Functional: registration, authorization, add/delete favourite movies, edit profile information, search movies by name <br> or search movies by length. <br>
-  Frontend: TypeScript, React, CSS Modules, BEM;
-  <br>
-  Backend: NodeJS, Express.js, MongoDB;
+  <ul>
+  <li>Functional: registration, authorization, add/delete favourite movies, edit profile information, search movies by name <br> or search movies by length.</li>
+    <li>Frontend: TypeScript, React, CSS Modules, BEM;</li>
+    <li>Backend: NodeJS, Express.js, MongoDB;</li><br>
+    </ul>
   
-  <p></p>
   
   <li><b>Project "Mesto"</b> (<a href="https://github.com/pahanavr/react-mesto-api-full">Repositorie</a>)</li>
   <p></p>
-  Functional: registration, authorization, add/delete cards, edit profile, edit avatar, popups. <br>
-  Frontend: JavaScript, React, CSS, BEM;
+  <ul>
+  <li>Functional: registration, authorization, add/delete cards, edit profile, edit avatar, popups.</li>
+    <li>Frontend: JavaScript, React, CSS, BEM;</li>
+    <li>Backend: NodeJS, Express.js, MongoDB;</li>
   <br>
-  Backend: NodeJS, Express.js, MongoDB;
-  <p></p>
+  </ul>
   <li><b>Project "Russian travel"</b> (<a href="https://github.com/pahanavr/russian-travel">Repositorie</a> / <a href="https://pahanavr.github.io/russian-travel/">GitHub Pages</a>)</li>
-  <p></p>
-  Functional: Landing page with adaptive design about Russian travel.<br>
-  
-  Tools: HTML, CSS, BEM, Adaptive design.
+  <br>
+  <ul>
+    <li>Functional: Landing page with adaptive design about Russian travel.</li>
+    <li>Tools: HTML, CSS, BEM, Adaptive design.</li>
+   </ul>
   
 </ul>
 
