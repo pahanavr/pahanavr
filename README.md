@@ -13,7 +13,7 @@
   <li>🇲🇪 Now I live in Montenegro.</li>
   <li>⚙️ 6 year background as shipbuilding engineer.</li>
   <li>🧑‍🎓 Graduate of Yandex.Practicum. Profession "Web Developer" 1 year course.</li>
-  <li>🔭 I'm currently working in small startup where develop SaaS system for 6 months.<br> Stack: TypeScript, React, Redux Toolkit, CSS modules, SCSS.</li>
+  <li>🔭 I'm currently working in small startup where develop SaaS system for 6 months.<br> 🛠️ Stack: TypeScript, React, Redux Toolkit, CSS modules, SCSS.</li>
   <li>✏️ I want to learn new technologies and write excellent code.</li>
 </ul>
 
