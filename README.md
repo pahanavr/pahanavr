@@ -41,7 +41,7 @@
     <li><b>Project "Yep.community Navigator"</b> (<a href="https://navigator.yepcommunity.ru/")>Website link</a>)</li>
     <p></p>
   <ul>
-  <li>Functional: Search clubs by name, filters by properties of club.</li>
+  <li>Functional: Search clubs by name, filters by properties of club. (Will be more functionality, now I'm making new features, like rate of club and submit forms)</li>
     <li>Stack: TypeScript, React, Redux Toolkit, Axios, CSS Modules, SCSS, BEM;</li>
   </ul>
   <br>
