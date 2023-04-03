@@ -38,14 +38,20 @@
  -->
 <h2>🎞  Projects</h2>
 <ul>
+    <li><b>Project "Yep.community Navigator"</b> (<a href="https://navigator.yepcommunity.ru/")>Website link</a>)</li>
+    <p></p>
+  <ul>
+  <li>Functional: Search clubs by name, filters by properties of club.</li>
+    <li>Stack: TypeScript, React, Redux Toolkit, Axios, CSS Modules, SCSS, BEM;</li>
+  </ul>
+  <br>
   <li><b>Project "Movies-Explorer"</b> (<a href="https://github.com/pahanavr/movies-explorer-frontend">Frontend Repositorie</a> / <a href="https://github.com/pahanavr/movies-explorer-api">Backend Repositorie</a>)</li>
     <p></p>
   <ul>
   <li>Functional: registration, authorization, add/delete favourite movies, edit profile information, search movies by name <br> or search movies by length.</li>
-    <li>Frontend: TypeScript, React, CSS Modules, BEM;</li>
+    <li>Frontend: TypeScript, React, CSS Modules, SCSS, BEM;</li>
     <li>Backend: NodeJS, Express.js, MongoDB;</li><br>
     </ul>
-  
   
   <li><b>Project "Mesto"</b> (<a href="https://github.com/pahanavr/react-mesto-api-full">Repositorie</a>)</li>
   <p></p>
@@ -61,7 +67,6 @@
     <li>Functional: Landing page with adaptive design about Russian travel.</li>
     <li>Tools: HTML, CSS, BEM, Adaptive design.</li>
    </ul>
-  
 </ul>
 
 <!---
