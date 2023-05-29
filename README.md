@@ -38,6 +38,15 @@
  -->
 <h2>🎞  Projects</h2>
 <ul>
+    <li><b>Project "MindLand" (Fullstack application)</b> (<a href="https://mindland.vercel.app/")>Website link</a>)</li>
+    <p></p>
+  <ul>
+  <li>Functional: MindLand is an open-source project to discover, create and share creative minds. You can search minds for your inspiration for create new things which you will want.
+
+</li>
+    <li>Stack: TypeScript, Next.js, Tailwind CSS, MongoDb, API</li>
+  </ul>
+  <br>
     <li><b>Project "Yep.community Navigator"</b> (<a href="https://navigator.yepcommunity.ru/")>Website link</a>)</li>
     <p></p>
   <ul>
