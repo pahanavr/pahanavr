@@ -10,7 +10,6 @@
 <h2 fonts-size="24px">👀  About me</h2>
 <ul>
   <li>👨‍💻 Frontend developer.</li>
-  <li>🇲🇪 Now I live in Montenegro.</li>
   <li>⚙️ 6 year background as shipbuilding engineer.</li>
   <li>🧑‍🎓 Graduate of Yandex.Practicum. Profession "Web Developer" 1 year course.</li>
   <li>🔭 I have worked in small startup where develop SaaS system.<br> 🛠️ Project tools: TypeScript, React, Redux Toolkit, CSS modules, SCSS.</li>
