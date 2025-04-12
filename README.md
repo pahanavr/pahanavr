@@ -7,14 +7,14 @@
 <a href="https://www.linkedin.com/in/pavel-kiselev-201745233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
 
-<h2 fonts-size="24px">👀  About me</h2>
+<!-- <h2 fonts-size="24px">👀  About me</h2>
 <ul>
   <li>👨‍💻 Frontend developer.</li>
-  <li>⚙️ 6 year background as shipbuilding engineer.</li>
+  <li>⚙️ Commercial experience since 2022</li>
   <li>🧑‍🎓 Graduate of Yandex.Practicum. Profession "Web Developer" 1 year course.</li>
   <li>🔭 I have worked in small startup where develop SaaS system.<br> 🛠️ Project tools: TypeScript, React, Redux Toolkit, CSS modules, SCSS.</li>
   <li>✏️ I want to learn new technologies and write excellent code.</li>
-</ul>
+</ul> -->
 
 <h2>🛠  Tools</h2>
 <ul>
@@ -34,16 +34,14 @@
 <!-- <h2>📏Statistics</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pahanavr&theme=dark&background=000000)](https://git.io/streak-stats)
- -->
 <h2>🎞  Projects</h2>
 <ul>
     <li><b>Project "MindLand" (Fullstack application)</b> (<a href="https://mindland.vercel.app/")>Website link</a>)</li>
     <p></p>
   <ul>
   <li>Functional: MindLand is an open-source project to discover, create and share creative minds. You can search minds for your inspiration for create new things which you will want.
-
 </li>
-    <li>Stack: TypeScript, Next.js, Tailwind CSS, MongoDb, API</li>
+<!--     <li>Stack: TypeScript, Next.js, Tailwind CSS, MongoDb, API</li>
   </ul>
   <br>
     <li><b>Project "Yep.community Navigator"</b> (<a href="https://navigator.yepcommunity.ru/")>Website link</a>)</li>
@@ -60,7 +58,6 @@
     <li>Frontend: TypeScript, React, CSS Modules, SCSS, BEM;</li>
     <li>Backend: NodeJS, Express.js, MongoDB;</li><br>
     </ul>
-  
   <li><b>Project "Mesto"</b> (<a href="https://github.com/pahanavr/react-mesto-api-full">Repositorie</a>)</li>
   <p></p>
   <ul>
@@ -75,7 +72,7 @@
     <li>Functional: Landing page with adaptive design about Russian travel.</li>
     <li>Tools: HTML, CSS, BEM, Adaptive design.</li>
    </ul>
-</ul>
+</ul> -->
 
 <!---
 pahanavr/pahanavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
